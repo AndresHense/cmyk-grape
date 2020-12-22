@@ -1,13 +1,10 @@
 
-
-
-
 <!--Repositorio iniciado para comenzar/seguir el aprendizaje de un desarrollador frontend
 -->
 
 
 <!-- Please update value in the {}  -->
-{<img src="./public/assets/logo.svg" align="right" height=80px />
+.<img src="./public/assets/logo.svg" align="right" height=80px />
 <h1 align="center"> Proyecto CMYK++ - Grape}</h1>
 
 
